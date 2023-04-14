@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "_id": "b929f76a-d94c-469d-a066-42c0123a7c05",
+      "title": "Hello World"
+    },
+    {
+      "_id": "f52f0056-1b6b-404d-81a8-2227148a224d",
+      "title": "Is here and awesome!"
+    },
+    {
+      "_id": "4dffe351-4dce-47c4-aff8-11d2f9cbf348",
+      "title": "With Redux"
+    },
+    {
+      "_id": "a47e5683-389a-4698-8fcf-9026d419ccf2",
+      "title": "NgRx for Angular App"
+    },
+    {
+      "_id": "0e035523-baa6-4ec1-94ee-04279cd63cf7",
+      "title": "Redux Pattern!"
+    }
+  ]
+}
